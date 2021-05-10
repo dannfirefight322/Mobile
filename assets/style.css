@@ -74,3 +74,20 @@ color:00ADB5;
 font-family: Cursive;
 text-align:center;
 }
+.internal{
+text-align:center;
+color:00ADB5;
+font-family: cursive;
+}
+.inter{
+display:inline;
+color:00ADB5;
+font-size:18px;
+}
+.galleryname{
+color:00ADB5;
+font-size:18px;
+text-align:center;
+font-family: cursive;
+font-size:35px;
+}
