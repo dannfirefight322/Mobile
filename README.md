@@ -1,2 +1,2 @@
 # Daniel's Photography
-### This is a Personal website dedicated to my photography.
+### This is a personal website dedicated to my photography.
