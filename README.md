@@ -1,2 +1,2 @@
 # Mobile
-### This is a Personal webiste dedicated to my photography
+### This is a Personal website dedicated to my photography.
