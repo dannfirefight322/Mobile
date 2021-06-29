@@ -1,2 +1,2 @@
-# Mobile
+# Daniel's Photography
 ### This is a Personal website dedicated to my photography.
