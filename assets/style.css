@@ -79,6 +79,18 @@ a{
     text-decoration: none;
     color: #00ADB5;
 }
+/*galleries*/
+.gallery-images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.stock-image{
+    height: 450px;
+    margin: 15px;
+    border-radius: 15px;
+}
 @media (max-width: 1800px){
 body{
 background-color: #393E46;
@@ -177,6 +189,7 @@ color: #00ADB5;
 font-family: Cursive;
 text-align:center;
 font-size:20px;
+margin-bottom: 25px;
 }
 .internal{
 text-align:center;
@@ -194,4 +207,17 @@ font-size:18px;
 text-align:center;
 font-family: cursive;
 font-size:35px;
+}
+.gallery-images{
+    display: flex;
+    flex-direction: column;
+}
+.stock-image{
+    width: 90%;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    height: auto;
+}
 }
