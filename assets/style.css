@@ -91,6 +91,46 @@ a{
     margin: 15px;
     border-radius: 15px;
 }
+.galleryname{
+    font-size: 35px;
+    text-align: center;
+    color: #00ADB5;
+}
+.internal{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.inter{
+    font-size: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+.email{
+    text-align: center;
+    font-size: 35px;
+    color: #00ADB5;
+}
+.socialslinks{
+    text-align:center;
+}
+.sociallink{
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #00ADB5;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
 @media (max-width: 1800px){
 body{
 background-color: #393E46;
