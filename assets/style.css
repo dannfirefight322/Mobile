@@ -129,8 +129,9 @@ a{
 }
 .form{
     display: flex;
-    justify-content: center;
-    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
 }
 @media (max-width: 1800px){
 body{
@@ -260,5 +261,8 @@ font-size:35px;
     margin-right: auto;
     margin-top: 15px;
     height: auto;
+}
+.form{
+    width: 100%;
 }
 }
